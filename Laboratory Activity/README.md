@@ -57,7 +57,7 @@ The code defines a function `is_perfect_numbe`r to check if a given number is a 
 
 <hr style="width: 50%; height: 1px; background-color: #FF5D8F; border: none; margin: 20px auto;">
 
-### Laboratory Activity 4: PYTHON OOPs  
+### Laboratory Activity 4: PYTHON OOPs 🖥️
 It demonstrates object manipulation through class instances and error handling for array operations.  
 
 *Item 1: Capybara Class and Test Cases*  
