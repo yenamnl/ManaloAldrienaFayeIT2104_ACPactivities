@@ -60,10 +60,10 @@ The code defines a function `is_perfect_numbe`r to check if a given number is a 
 ### Laboratory Activity 4: PYTHON OOPs  
 It demonstrates object manipulation through class instances and error handling for array operations.  
 
-*Item 1: Capybara Class and Test Cases*
+*Item 1: Capybara Class and Test Cases*  
 The code defines a `Capybara class`, which stores the name, gender, and age of a capybara. Two instances of this class are created, `capybara1` and `capybara2`, representing two different capybaras. The user is prompted to enter a test case number, which will select one of the two capybaras and display their details (name, gender, and age).
 
-*Item 2: Array Element Access*
+*Item 2: Array Element Access*  
 The user is prompted to input the size of the array and its elements, which are stored as floating-point numbers. The user can then input an index, and the program will attempt to print the element at that index. If the index is out of bounds, an `IndexError` is caught and an appropriate error message is displayed. Similarly, if a non-numeric value is entered for the array elements, a `ValueError` is raised, and an error message is displayed to prompt the user for numeric input only.  
 
 ### Instructions for Reviewers  
@@ -86,6 +86,11 @@ The user is prompted to input the size of the array and its elements, which are 
 - Keep your code and files organized. Use proper naming conventions for functions, variables, and files.
 - Coding can be challenging, and solutions may not always come quickly. Stay persistent, and remember that progress often comes in small steps.
 
+<hr style="width: 50%; height: 1px; background-color: #FF5D8F; border: none; margin: 20px auto;">
+
+<div align="center">
+  <img src="image/labacts_meme.jpg" alt="meme" width="300">
+</div>
 
 
 
